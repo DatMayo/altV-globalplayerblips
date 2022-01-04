@@ -6,6 +6,7 @@
     "outDir": "./build",
     "esModuleInterop": true,
     "typeRoots": ["./node_modules/@types", "./node_modules/@altv"],
-    "strict": true
+    "strict": true,
+    "moduleResolution": "Node"
   }
 }
